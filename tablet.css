@@ -1,0 +1,10 @@
+@media (max-width:1024px) {
+    /* Tambahkan CSS untuk lesson */
+    header{
+      width:100%;
+    }
+
+    .container{
+      width: 100%;
+    }
+  }
